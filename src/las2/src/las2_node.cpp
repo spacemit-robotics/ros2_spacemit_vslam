@@ -33,7 +33,7 @@
 #include <sys/vb_api.h>
 #include <sys/vb_type.h>
 
-#include <stereo_matching/pipeline.h>
+#include <stereo_pipeline.h>
 #include <mpp_msgs/msg/mpp_video_frame_desc.hpp>
 #include <nav_msgs/msg/odometry.hpp>
 #include <rclcpp/rclcpp.hpp>

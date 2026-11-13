@@ -6,7 +6,7 @@
 #include <chrono>
 #include <condition_variable>
 #include <deque>
-#include <stereo_matching/pipeline.h>
+#include <stereo_pipeline.h>
 #include <memory>
 #include <mpp_msgs/msg/mpp_video_frame_desc.hpp>
 #include <mutex>
